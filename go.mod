@@ -1,4 +1,4 @@
-module github.com/youtzz/jetbra-activate-native
+module github.com/youtzz/jet-activate-native
 
 go 1.18
 
